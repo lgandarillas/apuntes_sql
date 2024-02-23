@@ -1,0 +1,52 @@
+CURSO SQL BY: @mouredev
+
+1) BASES DE DATOS SQL
+- SQL: Structured Query language
+- miro.com: Web para hacer diseño online
+- DB Relacional: Las tablas guardan relaciones entre ellas.
+- DB No Realcional: Todos los datos son independientes (documentos), se operan con lenguajes No SQL.
+- W3 School SQL: Web con los fundamentos de SQL
+
+2) SISTEMA DE GESTIÓN DE BASES DE DATOS
+- DBMS: Database Management System
+- Motor de bases de datos que uso: MySQL
+- Otros motores: Oracle (Mysql), IBM DB2, Microsoft (SQL Server), MariaDB
+
+3) FUNDAMENTOS SQL Y BASES DE DATOS
+- Entidad: Objetos de una base de datos.
+- Tabla: Forma de organizar los datos, una ENTIDAD tiene una Tabla.
+- Fila: Cada fila (REGISTRO) será una instancia de la Entidad.
+- Columna: Cada columna será un (ATRIBUTO) de cada (REGISTRO).
+
+SQL DATA TYPES
+- STRING: CHAR(size), VARCHAR(size), BINARY(size), VARBINARY(size), BLOB(size), TEXT(size)
+- NUMERIC: BIT(size), BOOL, INT(size), FLOAT(p)
+- DATE AND TIME: DATE, DATETIME, TIME, YEAR
+
+4) CONFIGURACIÓN E INSTALACIÓN
+- MySQL.com ; MySQL Community Server
+
+5) PRIMEROS PASOS
+- Cliente: mecanismo que me permite interactuar con la Base de Datos.
+- sudo apt install mysql-server		# instalar cliente
+- mysql -u root -p					# conectar cliente-servidor
+
+6) CONEXION Y CLIENTE SQL
+Aplicaciones de Gestión de Bases de Datos
+- DB Visualizer, para visualizar bases de datos de forma gráfica
+- PHP MyAdmin, para interactuar con la bases de datos
+- Devart.com
+- SQL Pro Studio
+- Table Plus
+- MySQL Workbench (la que uso yo)
+
+7) INICIALIZACIÓN DE DATOS
+- PK = Primary Key
+- NN = Not Null
+- UQ = Unique
+- UN = Unsigned
+- ZF = Zerofill
+- BIN = Binary
+- AI = Autoincrement
+- G = Generated Column
+
