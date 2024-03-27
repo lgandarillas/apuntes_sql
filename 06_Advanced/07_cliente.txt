@@ -1,0 +1,27 @@
+/***
+hello-sql
+By: @mouredev
+
+07_cliente.txt
+***/
+
+// Otros clientes gráficos SQL
+- mysql Workbench
+- DB Visualizer (dbvis.com)
+- tableplus.com
+- sqlprostudio.com
+- devart.com
+
+// Donde desplegar mySQL, buenas y serias ambas
+- planetscale.com
+- clever-cloud.com
+
+// Donde desplegar Postgres
+- vercel.com
+- supabase.com
+- raiola networks
+
+// Aprender
+- Diseño de bases de datos (DDL, DML, DCL)
+- Concurrencia y transacciones
+- Seguridad
